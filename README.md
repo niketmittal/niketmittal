@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on ... a Web-Based Dashboard to Gain Real-Time Analysis on How Customers Feel About Client's Product using Machine Learning and NLP Techniques with Data                                    Processing on 14GB Large Dataset.
 - 🌱 I’m currently learning ... Machine Learning, Data Structures & Algorithms 
 - 👯 I’m looking to collaborate on ... WebDev/ML/AI/Data Science Project
-- 📫 How to reach me: ... dm me on instagram @niketmittal
+- 📫 How to reach me: ... dm me on instagram @niketmittal_
 
