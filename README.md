@@ -3,7 +3,4 @@
 <!--
 **niketmittal/niketmittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ... making an offline-search-command using inverted indexing
-- 🌱 I’m currently learning ... Machine Learning & Data Structures & Algorithms
-- 👯 I’m looking to collaborate on ... IOT/ML/AI based Project
-
+- 🌱 I’m currently learning ... Blockchain/Full-stack Web development/deploying smart contracts on Ethereum test networks.
